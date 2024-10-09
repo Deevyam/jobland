@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dbf3f4ee.css",
+    "main.js": "/static/js/main.65e1f38d.js",
+    "static/js/787.6d81a469.chunk.js": "/static/js/787.6d81a469.chunk.js",
+    "static/media/logo-black.png": "/static/media/logo-black.e21943325fa73b711e9c.png",
+    "static/media/recruiter.jpg": "/static/media/recruiter.610badae7a32e0a13d02.jpg",
+    "static/media/photoo.jpg": "/static/media/photoo.046b77e793f816beb531.jpg",
+    "static/media/snapchat-logo-svgrepo-com.svg": "/static/media/snapchat-logo-svgrepo-com.6dec0afb4c1c85870f7e2c82e53ad92e.svg",
+    "static/media/mcdonald-s-15-logo-svgrepo-com.svg": "/static/media/mcdonald-s-15-logo-svgrepo-com.c0578cdb94039a45e60035e4ca9b35e8.svg",
+    "static/media/twitter-3-logo-svgrepo-com.svg": "/static/media/twitter-3-logo-svgrepo-com.015d0ba4302c64429742722e2353f140.svg",
+    "static/media/google-color-icon.svg": "/static/media/google-color-icon.ea7174418615bb2b0b56a1ec41aa511d.svg",
+    "static/media/apple-black-logo-svgrepo-com.svg": "/static/media/apple-black-logo-svgrepo-com.2af17b1b0887cd56c9986e26604fdd48.svg",
+    "static/media/facebook-round-color-icon.svg": "/static/media/facebook-round-color-icon.5eeab832ebe15a44ba90256b0f6a9536.svg",
+    "index.html": "/index.html",
+    "main.dbf3f4ee.css.map": "/static/css/main.dbf3f4ee.css.map",
+    "main.65e1f38d.js.map": "/static/js/main.65e1f38d.js.map",
+    "787.6d81a469.chunk.js.map": "/static/js/787.6d81a469.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbf3f4ee.css",
+    "static/js/main.65e1f38d.js"
+  ]
+}
